@@ -1,4 +1,4 @@
-# Ecosystem Simulation (C++)
+# Ecosystem Simulation (C++) POO
 
 ## Description
 
