@@ -14,7 +14,6 @@ Developed as part of a university C++ programming project.
 
 - Ecosystem simulation
 - Multiple animal species
-- Object-oriented design
 - Dynamic interactions between animals
 - Modular C++ architecture
 
@@ -54,4 +53,4 @@ g++ *.cpp -o ecosystem
 
 ## Author
 
-Melissa Bali
+Melissa
